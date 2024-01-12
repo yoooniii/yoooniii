@@ -1,5 +1,6 @@
 <h1 align="center">### heyoo~ !! im yoana ♥</h1>
 <h3 align="center"> im a high school student whose dream is to become a game dev (and hopefully a web dev as well :3)</h3>
+<img align="center" alt="Coding" width="400" src="https://tenor.com/view/big-mouth-cat-gif-18848042?utm_source=share-button&utm_medium=Social&utm_content=pinterest">
 
 
 - i am currently learning [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
