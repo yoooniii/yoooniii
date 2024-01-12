@@ -5,7 +5,7 @@
 
 - i am currently learning [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 - languages i want to learn in the near future [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs&theme=dark)](https://skillicons.dev)
-- i am interesed in gaming (current obsession is valorant :c, but i'd really like to play a whole lot of games), drawing, reading ^^ 
+- i am interesed in gaming (current obsession is valorant :c, but i'd really like to play a whole lot of games), drawing, reading and maths ^^ 
 - u can reach me on discord, twitter, instagram
 - she / her
 - i like cats :D
