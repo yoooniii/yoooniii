@@ -1,6 +1,6 @@
 <h1 align="center">### heyoo~ !! im yoana ♥</h1>
 <h3 align="center"> im a high school student whose dream is to become a game dev (and hopefully a web dev as well :3)</h3>
-<img src="https://github.com/yoooniii/yoooniii/assets/116832176/d1e763a9-d91a-46f8-a9f0-ed35ff0e6bd4">
+<img align="right" src="https://github.com/yoooniii/yoooniii/assets/116832176/d1e763a9-d91a-46f8-a9f0-ed35ff0e6bd4">
 
 
 - i am currently learning [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
