@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/yoooniii/yoooniii/assets/116832176/d1e763a9-d91a-46f8-a9f0-ed35ff0e6bd4">
 
 - i am currently learning [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-- languages i want to learn in the near future [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs&theme=dark)](https://skillicons.dev)
+- languages i want to learn in the near future [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs&theme=dark)](https://skillicons.dev)
 - i am interesed in gaming (current obsession is valorant :c, but i'd really like to play a whole lot of games), drawing, reading and maths ^^ 
 - u can reach me on discord (yoooniii)
 - she / her
