@@ -10,6 +10,7 @@
 ### 🌱 Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=py&theme=dark" width="60" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="60" style="vertical-align: middle;"/>
 </p>
 
 ### 💼 Experience With
@@ -40,4 +41,4 @@
 
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoooniii&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://readme-stats.demolab.com/api/top-langs/?username=yoooniii&layout=compact)
